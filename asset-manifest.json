@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d703ef58.chunk.css",
-    "main.js": "/static/js/main.9671d975.chunk.js",
-    "main.js.map": "/static/js/main.9671d975.chunk.js.map",
+    "main.css": "/static/css/main.35d1bdf1.chunk.css",
+    "main.js": "/static/js/main.8ec7064f.chunk.js",
+    "main.js.map": "/static/js/main.8ec7064f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0eb3fd9b.js",
     "runtime-main.js.map": "/static/js/runtime-main.0eb3fd9b.js.map",
-    "static/js/2.b7e75093.chunk.js": "/static/js/2.b7e75093.chunk.js",
-    "static/js/2.b7e75093.chunk.js.map": "/static/js/2.b7e75093.chunk.js.map",
+    "static/js/2.05b3df45.chunk.js": "/static/js/2.05b3df45.chunk.js",
+    "static/js/2.05b3df45.chunk.js.map": "/static/js/2.05b3df45.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d703ef58.chunk.css.map": "/static/css/main.d703ef58.chunk.css.map",
-    "static/js/2.b7e75093.chunk.js.LICENSE.txt": "/static/js/2.b7e75093.chunk.js.LICENSE.txt",
+    "static/css/main.35d1bdf1.chunk.css.map": "/static/css/main.35d1bdf1.chunk.css.map",
+    "static/js/2.05b3df45.chunk.js.LICENSE.txt": "/static/js/2.05b3df45.chunk.js.LICENSE.txt",
     "static/media/avangers.72de1e14.jpg": "/static/media/avangers.72de1e14.jpg",
     "static/media/batman-art.7761c0f4.jpg": "/static/media/batman-art.7761c0f4.jpg",
     "static/media/big-bang-theory.5716e03d.jpg": "/static/media/big-bang-theory.5716e03d.jpg",
@@ -21,10 +21,12 @@
     "static/media/game-of-throne.a1b2f747.jpg": "/static/media/game-of-throne.a1b2f747.jpg",
     "static/media/instagram.482d4132.svg": "/static/media/instagram.482d4132.svg",
     "static/media/iron-man-art.2d68e6c8.jpg": "/static/media/iron-man-art.2d68e6c8.jpg",
+    "static/media/left.227b5967.svg": "/static/media/left.227b5967.svg",
     "static/media/linkedin.3ab0008f.svg": "/static/media/linkedin.3ab0008f.svg",
     "static/media/news3.c687ed5b.jpg": "/static/media/news3.c687ed5b.jpg",
     "static/media/phone.3864d9a3.svg": "/static/media/phone.3864d9a3.svg",
     "static/media/pin.72e55ebe.svg": "/static/media/pin.72e55ebe.svg",
+    "static/media/right.bbe7d9e5.svg": "/static/media/right.bbe7d9e5.svg",
     "static/media/shazam.d4ca71be.jpg": "/static/media/shazam.d4ca71be.jpg",
     "static/media/superman-art.7648b0c5.jpg": "/static/media/superman-art.7648b0c5.jpg",
     "static/media/superman2-art.d325570c.jpg": "/static/media/superman2-art.d325570c.jpg",
@@ -35,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0eb3fd9b.js",
-    "static/js/2.b7e75093.chunk.js",
-    "static/css/main.d703ef58.chunk.css",
-    "static/js/main.9671d975.chunk.js"
+    "static/js/2.05b3df45.chunk.js",
+    "static/css/main.35d1bdf1.chunk.css",
+    "static/js/main.8ec7064f.chunk.js"
   ]
 }
